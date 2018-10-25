@@ -1,2 +1,2 @@
 # hello-world
-practice
+practice makes man perfect
