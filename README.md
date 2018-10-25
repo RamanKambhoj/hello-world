@@ -1,2 +1,2 @@
 # hello-world
-practice makes man perfect
+practice makes man and woman both perfect
